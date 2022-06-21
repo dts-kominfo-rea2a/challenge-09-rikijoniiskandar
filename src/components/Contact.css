@@ -1,0 +1,28 @@
+.card {
+    position: relative;
+    display: flex;
+    width: 100%;
+    border-radius: 1.5rem;
+    flex-direction: row;
+    gap: 4rem;
+    align-items: center;
+    padding: 4px;
+    background-color: #b64536ab;
+    color: #fff;
+    margin: 1rem 0;
+
+}
+
+.picture {
+    width: 10rem;
+    border-radius: 50%;
+    padding: 4px 10px;
+}
+
+.contact_info {
+    font-weight: 500;
+}
+
+.name {
+    font-size: 24px;
+}
